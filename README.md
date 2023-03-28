@@ -4,8 +4,11 @@ A new Flutter project.
 
 ## Screenshots
 
+This is the loading page till we fetch the data from the weather API
 
 <img width="304" alt="Screenshot 2023-03-28 at 12 18 14 PM" src="https://user-images.githubusercontent.com/87337568/228152852-5ce8500e-b2cb-409a-a6f3-37723ff2f2b4.png">
+
+This is the User Interface after fetching the data from the API
 
 <img width="410" alt="Screenshot 2023-03-28 at 12 22 37 PM" src="https://user-images.githubusercontent.com/87337568/228153034-753a00d9-3b90-431e-a564-b8553d6f2267.png">
 
