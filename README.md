@@ -2,11 +2,10 @@
 
 A new Flutter project.
 
-
 #Screenshots
-<img width="304" alt="Screenshot 2023-03-28 at 12 18 14 PM" src="https://user-images.githubusercontent.com/87337568/228151952-edee5e0a-c230-4fc2-bdc2-a74df4b00999.png">
 
-<img width="311" alt="Screenshot 2023-03-28 at 12 19 11 PM" src="https://user-images.githubusercontent.com/87337568/228152044-3b1cb0d1-951e-4386-8764-05e38111c437.png">
+
+
 
 
 ## Getting Started
